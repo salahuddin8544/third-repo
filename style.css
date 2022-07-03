@@ -1,0 +1,8 @@
+.blog{
+    width:60%;
+    height: 400px;
+    background-color: chartreuse;
+    color: blueviolet;
+    text-align: center;
+    margin: 0 auto
+}
